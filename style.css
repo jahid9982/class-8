@@ -1,0 +1,6 @@
+::placeholder{
+    color: blue;
+    outline: none;
+    border: 2px solid black;
+}
+::-ms-input-placeholder{ color: blue;}
